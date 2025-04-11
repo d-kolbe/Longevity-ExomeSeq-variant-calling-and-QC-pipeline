@@ -2,7 +2,7 @@
 params.ref = "./parfiles/genome.fa" // reference genome
 params.ref_ind = "./parfiles/genome.fa.fai" // reference genome index
 params.regions = "./parfiles/hg38_exomregions_withoutCHR.bed" // exonic regions
-params.plinkQC_rscript = "./parfiles/plinkQC.R"
+params.plinkQC_rscript = "./parfiles/plinkQC.R" // quality control at plink level (hwe, ibd, het etc.)
 params.vaf_script = "./parfiles/Annotate_VAF.py" // python script to annotate and process variant allele fraction (removal of somatic mutations)
 
 
