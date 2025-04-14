@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Annotation script for VAF
 
-Annotation script
-
-Created on Fri May 12 15:36:09 2023
-
-@author: dani
 """
 
 #%%
